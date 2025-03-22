@@ -14,9 +14,7 @@ The dataset includes labeled network traffic data representing both normal and D
 Python, TensorFlow / Keras, Scikit-learn, imbalanced-learn (SMOTE), Matplotlib & Seaborn (for visualization), PySwarm (for PSO), Pandas, NumPy
 
 ### Model Architecture
-•	Baseline Models: Random Forest, K-Nearest Neighbors (KNN), Multi-Layer Perceptron (MLP)
-•	Proposed Model: Extreme Learning Machine (ELM) with single-layer feedforward neural network and Optimized using Particle Swarm Optimization (PSO) for selecting input weights and biases
-•	Feature selection and dimensionality reduction techniques are applied to enhance training efficiency and model accuracy
+Baseline Models: Random Forest, K-Nearest Neighbors (KNN), Multi-Layer Perceptron (MLP). Proposed Model: Extreme Learning Machine (ELM) with single-layer feedforward neural network and Optimized using Particle Swarm Optimization (PSO) for selecting input weights and biases, Feature selection and dimensionality reduction techniques are applied to enhance training efficiency and model accuracy
 
 
 ![Untitled Diagram-Page-2 drawio (3)](https://github.com/user-attachments/assets/8df4aa56-207e-47a2-b59f-d3f1e0d05f82)
